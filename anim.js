@@ -32,7 +32,7 @@ ScrollReveal().reveal('.home-content p, .about-col-2', {origin:'rigth'});
 
 //text--------------------------------------------------------------------
 const typed=new Typed('.multiple-text',{
-    strings:['Web Developer','Web Designer','PHP Developer'],
+    strings:['Mern Stack Developer','Web Designer','Frontend Developer'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:100,
